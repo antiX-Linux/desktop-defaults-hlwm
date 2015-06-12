@@ -1,3 +1,17 @@
+desktop-defaults-hlwm-antix (0.1.2) unstable; urgency=low
+ 
+  * Extend help popup and open with leafpad.
+
+ -- anticapitalista <antiX@operamail.com>  Sat, 25 Apr 2015 13:20:00 +0200
+
+
+desktop-defaults-hlwm-antix (0.1.1) unstable; urgency=low
+ 
+  * Include help pop-up for first time users
+
+ -- anticapitalista <antiX@operamail.com>  Wed, 08 Apr 2015 18:36:00 +0200
+
+
 desktop-defaults-hlwm-antix (0.1.0) unstable; urgency=low
  
   * Initial release.

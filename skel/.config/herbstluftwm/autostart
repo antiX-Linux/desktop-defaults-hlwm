@@ -16,6 +16,7 @@ xsetroot -solid '#444444'
 
 # autostart daemons'n'stuff
 # spacefm -d &
+leafpad $HERB/help.txt &
 
 # remove all existing keybindings
 hc keyunbind --all
